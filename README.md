@@ -13,6 +13,8 @@ On tapping on any user from the list will take you to main chat with the respect
 
 Belew you have a small dock that contains emoji button, input for message, attachment button and camera button(At the time input is working)
 
+Screenshots in ChatApp directory...
+
 Note: Firebase not added!(Only has a local dummmy data)
 
 👋 Hi, I’m Mithilesh Ghadge
